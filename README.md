@@ -56,6 +56,8 @@ I enjoy turning real-world needs into useful software—from student support too
 ### 🧰 My Toolbox
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Designing+thoughtful+experiences;Building+with+React%2C+Python+%26+Java;Always+learning%2C+always+creating" alt="Designing thoughtful experiences | Building with React, Python, and Java | Always learning, always creating" />
+  <br />
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,python,flask,sqlite,java,firebase,git,github,vscode&perline=7" alt="JavaScript, HTML, CSS, React, Vite, Tailwind CSS, Python, Flask, SQLite, Java, Firebase, Git, GitHub, and VS Code" />
 </div>
 
