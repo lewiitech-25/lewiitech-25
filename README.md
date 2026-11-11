@@ -66,12 +66,8 @@ I enjoy turning real-world needs into useful software—from student support too
 ### 📊 My GitHub History!
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lewiitech-25&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Lewis's GitHub stats, including stars, commits, pull requests, issues, and rank" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiitech-25&layout=normal&langs_count=5&theme=tokyonight&hide_border=true" alt="Lewis's most-used programming languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiitech-25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub profile statistics: public repositories, stars, forks, and followers" />
+  <img width="49%" src="./assets/top-languages.svg" alt="Most-used languages across original, non-archived repositories" />
 </div>
 
 ---
