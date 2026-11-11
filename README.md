@@ -1,62 +1,87 @@
-<h1 align="center">Hi, I'm Lewis Mwangi 👋</h1>
+<div align="center">
 
-<p align="center">
-  Software developer interested in building useful applications with thoughtful, user-friendly experiences.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:2563EB,100:7C3AED&text=Lewis%20Mwangi&fontColor=FFFFFF&fontSize=54&fontAlignY=42&desc=Building%20thoughtful%20software%20for%20real%20people&descAlignY=63&descSize=17" alt="Lewis Mwangi — Building thoughtful software for real people" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lewiitech-25&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/lewiitech-25?style=for-the-badge&color=10B981&label=FOLLOWERS" alt="Followers" />
-</p>
+<a href="https://github.com/lewiitech-25">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer;React+%7C+Python+%7C+Java;From+ideas+to+useful+applications" alt="Software Developer | React, Python, Java | From ideas to useful applications" />
+</a>
 
----
+<br />
 
-### About Me
+<a href="https://github.com/lewiitech-25?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<img src="https://komarev.com/ghpvc/?username=lewiitech-25&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors" />
 
-- Currently working on student-focused applications, including MindConnect and HandIn.
-- Interested in full-stack development, software engineering, and human-computer interaction.
-- I enjoy collaborating on practical tools, dashboards, and web applications.
-
-### Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,python,flask,sqlite,java,firebase,git,github&perline=7" alt="JavaScript, HTML, CSS, React, Vite, Tailwind CSS, Python, Flask, SQLite, Java, Firebase, Git, and GitHub" />
-</p>
-
-### Featured Projects
-
-#### [MindConnect](https://github.com/lewiitech-25/mindconnect)
-Student mental wellness and counseling portal with mood tracking, counselor appointments, self-help resources, and role-based dashboards.
-
-**Tech:** React, Vite, Tailwind CSS, Firebase, Chart.js
-
-**My contributions:** HCI design, UI components, routing, styling, and chart integration.
-
-#### [HandIn — Student Assignment Submission System](https://github.com/ET1864/handin-assignment-submission-system)
-Team-built system for students to view classes, submit assignments, and track grades, with lecturer tools for assignment and submission management.
-
-**Tech:** Python, Flask, SQLite, HTML, CSS
-
-**My contributions:** Lecturer class pages, assignment creation, submission tracking, and a recovery demonstration.
-
-#### [Car Rental System](https://github.com/lewiitech-25/CarRentalSystem)
-Desktop car-rental application for managing vehicles, customers, bookings, and payments, with role-based access.
-
-**Tech:** Java, Firebase Authentication, Firestore
+</div>
 
 ---
 
-### GitHub Stats
+### 👋 Hey, I'm Lewis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lewiitech-25&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiitech-25&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
-</p>
+I enjoy turning real-world needs into useful software—from student support tools to everyday management systems. I care about both sides of the experience: how an application works and how it feels to use.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiitech-25&theme=tokyonight&hide_border=true" width="97%" alt="GitHub contribution streak" />
-</p>
+- 🧩 **I build with:** React, JavaScript, Python, and Java
+- 🎨 **I care about:** thoughtful interfaces, human-computer interaction, and clear workflows
+- 🤝 **I enjoy:** collaborating on practical projects and learning by building
 
-<p align="center">
-  <a href="https://github.com/lewiitech-25">Find me on GitHub</a>
-</p>
+---
+
+### ✨ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 <a href="https://github.com/lewiitech-25/mindconnect">MindConnect</a></h3>
+      <p>A student wellness and counseling portal with mood tracking, counselor appointments, self-help resources, and role-based dashboards.</p>
+      <p><strong>Built with:</strong> React · Vite · Tailwind CSS · Firebase · Chart.js</p>
+      <p><strong>My contributions:</strong> HCI design, UI components, routing, styling, and chart integration.</p>
+    </td>
+    <td width="50%">
+      <h3>📚 <a href="https://github.com/ET1864/handin-assignment-submission-system">HandIn</a></h3>
+      <p>A team-built assignment system where students submit work and track grades, while lecturers create assignments and review submissions.</p>
+      <p><strong>Built with:</strong> Python · Flask · SQLite · HTML · CSS</p>
+      <p><strong>My contributions:</strong> Lecturer class pages, assignment creation, submission tracking, and a recovery demonstration.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🚗 <a href="https://github.com/lewiitech-25/CarRentalSystem">Car Rental System</a></h3>
+      <p>A desktop application for managing vehicles, customers, bookings, and payments, with role-based access.</p>
+      <p><strong>Built with:</strong> Java · Firebase Authentication · Firestore</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 My Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,python,flask,sqlite,java,firebase,git,github,vscode&perline=7" alt="JavaScript, HTML, CSS, React, Vite, Tailwind CSS, Python, Flask, SQLite, Java, Firebase, Git, GitHub, and VS Code" />
+</div>
+
+---
+
+### 📈 A Little GitHub Snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lewiitech-25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiitech-25&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiitech-25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+---
+
+<div align="center">
+
+### Have an interesting idea? Let's build something useful. 🚀
+
+<a href="https://github.com/lewiitech-25?tab=repositories">Browse my repositories</a> · <a href="https://github.com/lewiitech-25">Connect on GitHub</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer" alt="" width="100%" />
+
+</div>
